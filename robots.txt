@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://amazingismail-lab.github.io/wedge-pillow-guides/sitemap.xml
